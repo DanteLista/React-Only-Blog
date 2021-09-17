@@ -1,0 +1,20 @@
+{
+    "blogs": [
+        {
+            "title": "Post 1",
+            "body": "lorem ipsum.....",
+            "author": "matt",
+            "id": 1
+        },
+
+
+        {
+            "title": "Post 2",
+            "body": "lorem ipsum.....",
+            "author": "dante",
+            "id": 2
+        }
+
+
+    ]
+}
