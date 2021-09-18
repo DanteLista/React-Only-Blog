@@ -1,20 +1,10 @@
 {
-    "blogs": [
-        {
-            "title": "How To Be an Idiot: A Masterclass",
-            "body": "lorem ipsum.....",
-            "author": "matt",
-            "id": 1
-        },
-
-
-        {
-            "title": "How To Be a Genius Who Makes 5 Billion Dollars an Hour",
-            "body": "lorem ipsum.....",
-            "author": "dante",
-            "id": 2
-        }
-
-
-    ]
+  "blogs": [
+    {
+      "title": "How To Be a Genius Who Makes 5 Billion Dollars an Hour",
+      "body": "lorem ipsum.....",
+      "author": "dante",
+      "id": 2
+    }
+  ]
 }
